@@ -44,4 +44,8 @@
 |  |
 | ------- |
 | [2502-sort-the-people](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2502-sort-the-people) |
+## Database
+|  |
+| ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0570-managers-with-at-least-5-direct-reports) |
 <!---LeetCode Topics End-->
