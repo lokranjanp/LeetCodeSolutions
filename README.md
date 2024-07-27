@@ -48,4 +48,8 @@
 |  |
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0570-managers-with-at-least-5-direct-reports) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
