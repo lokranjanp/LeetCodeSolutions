@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0001-two-sum) |
 | [0948-sort-an-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0948-sort-an-array) |
 | [2502-sort-the-people](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2502-sort-the-people) |
 ## Divide and Conquer
@@ -39,6 +40,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0001-two-sum) |
 | [2502-sort-the-people](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2502-sort-the-people) |
 ## String
 |  |
