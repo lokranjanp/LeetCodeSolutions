@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0015-3sum) |
 | [0948-sort-an-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0948-sort-an-array) |
 | [2502-sort-the-people](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2502-sort-the-people) |
 ## Divide and Conquer
@@ -15,6 +16,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0015-3sum) |
 | [0948-sort-an-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0948-sort-an-array) |
 | [2502-sort-the-people](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2502-sort-the-people) |
 ## Heap (Priority Queue)
@@ -54,4 +56,8 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
