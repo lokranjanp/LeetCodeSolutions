@@ -53,6 +53,7 @@
 |  |
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0584-find-customer-referee](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1908-recyclable-and-low-fat-products) |
 ## Math
 |  |
