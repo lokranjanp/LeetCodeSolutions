@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0015-3sum) |
 | [0948-sort-an-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0948-sort-an-array) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2502-sort-the-people](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2502-sort-the-people) |
 ## Divide and Conquer
@@ -19,6 +20,7 @@
 | ------- |
 | [0015-3sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0015-3sum) |
 | [0948-sort-an-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0948-sort-an-array) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2502-sort-the-people](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2502-sort-the-people) |
 ## Heap (Priority Queue)
 |  |
@@ -44,6 +46,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0001-two-sum) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2502-sort-the-people](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2502-sort-the-people) |
 ## String
 |  |
