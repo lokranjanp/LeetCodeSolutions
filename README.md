@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0015-3sum) |
 | [0948-sort-an-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0948-sort-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2502-sort-the-people](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2502-sort-the-people) |
 ## Divide and Conquer
@@ -21,6 +22,7 @@
 | [0015-3sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0015-3sum) |
 | [0948-sort-an-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0948-sort-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2502-sort-the-people](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2502-sort-the-people) |
 ## Heap (Priority Queue)
 |  |
@@ -84,8 +86,13 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0015-3sum) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sliding Window
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+## Binary Search
+|  |
+| ------- |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 <!---LeetCode Topics End-->
