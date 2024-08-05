@@ -1,0 +1,1 @@
+select t1.x, t1.y, t1.z,IF((t1.x < t1.y + t1.z) and (t1.y < t1.x + t1.z) and (t1.z < t1.x + t1.y), "Yes", "No") as triangle from Triangle t1;
