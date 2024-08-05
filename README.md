@@ -64,6 +64,7 @@
 ## Database
 |  |
 | ------- |
+| [0180-consecutive-numbers](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0180-consecutive-numbers) |
 | [0185-department-top-three-salaries](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0185-department-top-three-salaries) |
 | [0197-rising-temperature](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0570-managers-with-at-least-5-direct-reports) |
