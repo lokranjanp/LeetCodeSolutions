@@ -1,3 +1,6 @@
-select employee_id, department_id from Employee
-where primary_flag = 'Y' or employee_id 
-in (select employee_id from Employee group by employee_id having count(*) = 1);
+select e.employee_id, e.department_id from Employee e
+where e.primary_flag = 'Y' or
+e.employee_id in (
+    select
+        employee_id from Employee group by employee_id having count(*) = 1
+);
