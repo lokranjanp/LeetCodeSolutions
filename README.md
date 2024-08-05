@@ -94,6 +94,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sliding Window
 |  |
@@ -124,6 +125,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Recursion
 |  |
 | ------- |
