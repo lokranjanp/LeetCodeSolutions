@@ -64,6 +64,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0020-valid-parentheses) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/lokranjanp/LeetCodeSoln/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -144,6 +145,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0020-valid-parentheses) |
 | [0735-asteroid-collision](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0735-asteroid-collision) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0775-n-ary-tree-preorder-traversal) |
 ## Simulation
