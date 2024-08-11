@@ -10,6 +10,7 @@
 | [0075-sort-colors](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0075-sort-colors) |
 | [0239-sliding-window-maximum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0239-sliding-window-maximum) |
 | [0735-asteroid-collision](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0735-asteroid-collision) |
+| [0870-magic-squares-in-grid](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0870-magic-squares-in-grid) |
 | [0948-sort-an-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0948-sort-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0001-two-sum) |
+| [0870-magic-squares-in-grid](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0870-magic-squares-in-grid) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2502-sort-the-people) |
@@ -123,6 +125,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0009-palindrome-number) |
+| [0870-magic-squares-in-grid](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0870-magic-squares-in-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -182,4 +185,8 @@
 |  |
 | ------- |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0775-n-ary-tree-preorder-traversal) |
+## Matrix
+|  |
+| ------- |
+| [0870-magic-squares-in-grid](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0870-magic-squares-in-grid) |
 <!---LeetCode Topics End-->
