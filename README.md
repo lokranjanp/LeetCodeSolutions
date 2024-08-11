@@ -181,12 +181,22 @@
 |  |
 | ------- |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Matrix
 |  |
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0870-magic-squares-in-grid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1544-count-good-nodes-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1544-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
