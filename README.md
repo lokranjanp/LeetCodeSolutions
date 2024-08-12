@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0239-sliding-window-maximum) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -181,6 +182,7 @@
 |  |
 | ------- |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -198,5 +200,18 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1544-count-good-nodes-in-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
