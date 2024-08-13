@@ -29,6 +29,7 @@
 | ------- |
 | [0015-3sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0075-sort-colors) |
+| [0295-find-median-from-data-stream](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0948-sort-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0948-sort-an-array) |
@@ -141,6 +143,7 @@
 | [0015-3sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0075-sort-colors) |
+| [0295-find-median-from-data-stream](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0295-find-median-from-data-stream) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 ## Sliding Window
 |  |
@@ -213,6 +216,7 @@
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -221,6 +225,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Backtracking
 |  |
