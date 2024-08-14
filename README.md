@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0015-3sum) |
 | [0040-combination-sum-ii](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0040-combination-sum-ii) |
+| [0055-jump-game](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0075-sort-colors) |
 | [0239-sliding-window-maximum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0347-top-k-frequent-elements) |
@@ -200,6 +201,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0890-lemonade-change) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/lokranjanp/LeetCodeSoln/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -284,5 +286,6 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0055-jump-game) |
 | [0678-valid-parenthesis-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
