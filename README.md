@@ -171,6 +171,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0020-valid-parentheses) |
+| [0145-binary-tree-postorder-traversal](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0145-binary-tree-postorder-traversal) |
 | [0735-asteroid-collision](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0735-asteroid-collision) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0775-n-ary-tree-preorder-traversal) |
 ## Simulation
@@ -200,6 +201,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0102-binary-tree-level-order-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -209,6 +211,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0100-same-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -229,6 +232,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0102-binary-tree-level-order-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0789-kth-largest-element-in-a-stream) |
