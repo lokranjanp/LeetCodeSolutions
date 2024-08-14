@@ -14,6 +14,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0735-asteroid-collision](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0735-asteroid-collision) |
 | [0870-magic-squares-in-grid](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0870-magic-squares-in-grid) |
+| [0890-lemonade-change](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0948-sort-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -200,6 +201,7 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0678-valid-parenthesis-string) |
+| [0890-lemonade-change](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0890-lemonade-change) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/lokranjanp/LeetCodeSoln/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Tree
 |  |
