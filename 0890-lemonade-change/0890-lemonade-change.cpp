@@ -8,7 +8,7 @@ public:
         {
             if(bills[i] == 5)
                 fives++;
-            
+
             if(bills[i] == 10)
             {
                 if(fives>0)
@@ -27,7 +27,9 @@ public:
                     tens--;
                 }
                 else if(fives>=3)
+                {
                     fives-=3;
+                }
                 else
                     return false;
             }
