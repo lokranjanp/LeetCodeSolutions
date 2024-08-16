@@ -14,6 +14,7 @@
 | [0239-sliding-window-maximum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0347-top-k-frequent-elements) |
 | [0611-valid-triangle-number](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0611-valid-triangle-number) |
+| [0624-maximum-distance-in-arrays](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0735-asteroid-collision](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0735-asteroid-collision) |
 | [0870-magic-squares-in-grid](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0870-magic-squares-in-grid) |
@@ -209,6 +210,7 @@
 | [0045-jump-game-ii](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0055-jump-game) |
 | [0611-valid-triangle-number](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0611-valid-triangle-number) |
+| [0624-maximum-distance-in-arrays](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0624-maximum-distance-in-arrays) |
 | [0678-valid-parenthesis-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0890-lemonade-change) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/lokranjanp/LeetCodeSoln/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
