@@ -147,6 +147,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0062-unique-paths) |
 | [0870-magic-squares-in-grid](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0870-magic-squares-in-grid) |
 ## Two Pointers
 |  |
@@ -299,6 +300,11 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0064-minimum-path-sum) |
 | [0678-valid-parenthesis-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0678-valid-parenthesis-string) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
