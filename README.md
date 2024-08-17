@@ -10,6 +10,7 @@
 | [0040-combination-sum-ii](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0075-sort-colors) |
 | [0239-sliding-window-maximum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0347-top-k-frequent-elements) |
@@ -243,6 +244,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0064-minimum-path-sum) |
 | [0870-magic-squares-in-grid](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0870-magic-squares-in-grid) |
 ## Breadth-First Search
 |  |
@@ -297,5 +299,6 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0064-minimum-path-sum) |
 | [0678-valid-parenthesis-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
