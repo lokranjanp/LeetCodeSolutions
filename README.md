@@ -151,6 +151,7 @@
 | [0002-add-two-numbers](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0062-unique-paths) |
+| [0263-ugly-number](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0264-ugly-number-ii) |
 | [0870-magic-squares-in-grid](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0870-magic-squares-in-grid) |
 ## Two Pointers
