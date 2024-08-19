@@ -153,6 +153,7 @@
 | [0062-unique-paths](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0062-unique-paths) |
 | [0263-ugly-number](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0870-magic-squares-in-grid) |
 ## Two Pointers
 |  |
@@ -310,6 +311,7 @@
 | [0063-unique-paths-ii](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0064-minimum-path-sum) |
 | [0264-ugly-number-ii](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0264-ugly-number-ii) |
+| [0650-2-keys-keyboard](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0678-valid-parenthesis-string) |
 ## Combinatorics
 |  |
