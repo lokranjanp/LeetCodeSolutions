@@ -317,4 +317,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0062-unique-paths) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
