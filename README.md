@@ -81,6 +81,7 @@
 | [0001-two-sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0146-lru-cache](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0146-lru-cache) |
+| [0205-isomorphic-strings](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0205-isomorphic-strings) |
 | [0264-ugly-number-ii](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0347-top-k-frequent-elements) |
 | [0870-magic-squares-in-grid](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0870-magic-squares-in-grid) |
@@ -94,6 +95,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0205-isomorphic-strings) |
 | [0678-valid-parenthesis-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0678-valid-parenthesis-string) |
 | [2032-largest-odd-number-in-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2032-largest-odd-number-in-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2163-kth-distinct-string-in-an-array) |
