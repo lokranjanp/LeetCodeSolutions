@@ -97,6 +97,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0205-isomorphic-strings) |
 | [0678-valid-parenthesis-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0678-valid-parenthesis-string) |
+| [0812-rotate-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0812-rotate-string) |
 | [2032-largest-odd-number-in-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2032-largest-odd-number-in-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2502-sort-the-people) |
@@ -331,4 +332,8 @@
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0476-number-complement) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
