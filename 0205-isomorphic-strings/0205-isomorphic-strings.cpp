@@ -1,28 +1,27 @@
 class Solution {
 public:
     bool isIsomorphic(string s, string t) {
-        if(s.size() != t.size())
-            return false;
+        vector<int>freq_s;
+        vector<int>freq_t;
 
-        unordered_map<char,char> mp1,mp2;
-        for(int i = 0; i<s.size(); i++)
-        {
-            if(mp1.count(s[i])==0 && mp2.count(t[i])==0)
-            {
-                mp1[s[i]] = t[i];
-                mp2[t[i]] = s[i];
-            }
-            else if(mp1.count(s[i])==1 && mp2.count(t[i])==1)
-            {
-                if(mp1[s[i]]==t[i] && mp2[t[i]]==s[i])
-                    continue;
-                else
-                    return false;
-            }
-            else
-                return false;
-        }
-        return true;
-                
-        }
+        unordered_map<char, int> freq_str_s;
+        unordered_map<char, int> freq_str_t;
+
+        for(auto c : s)
+            freq_str_s[c]++;
+
+        for(auto c : t)
+            freq_str_t[c]++;
+
+        for(auto x : freq_str_s)
+            freq_s.push_back(x.second);
+
+        for(auto x : freq_str_t)
+            freq_t.push_back(x.second);
+
+        sort(freq_s.begin(), freq_s.end());
+        sort(freq_t.begin(), freq_t.end());
+
+        return freq_s == freq_t;
+    }
 };
