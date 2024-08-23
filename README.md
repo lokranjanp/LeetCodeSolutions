@@ -95,6 +95,7 @@
 | [0020-valid-parentheses](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0151-reverse-words-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0678-valid-parenthesis-string) |
+| [2032-largest-odd-number-in-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2032-largest-odd-number-in-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/lokranjanp/LeetCodeSoln/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -158,6 +159,7 @@
 | [0264-ugly-number-ii](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0870-magic-squares-in-grid) |
+| [2032-largest-odd-number-in-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2032-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -226,6 +228,7 @@
 | [0624-maximum-distance-in-arrays](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0624-maximum-distance-in-arrays) |
 | [0678-valid-parenthesis-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0890-lemonade-change) |
+| [2032-largest-odd-number-in-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2032-largest-odd-number-in-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/lokranjanp/LeetCodeSoln/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Tree
 |  |
