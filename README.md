@@ -31,6 +31,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2502-sort-the-people](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2502-sort-the-people) |
+| [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/lokranjanp/LeetCodeSoln/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -340,6 +341,7 @@
 | [0650-2-keys-keyboard](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0678-valid-parenthesis-string) |
 | [0967-minimum-falling-path-sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0967-minimum-falling-path-sum) |
+| [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/lokranjanp/LeetCodeSoln/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Combinatorics
 |  |
 | ------- |
