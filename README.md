@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0015-3sum) |
 | [0040-combination-sum-ii](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0045-jump-game-ii) |
@@ -181,6 +182,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0075-sort-colors) |
@@ -241,6 +243,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0055-jump-game) |
 | [0611-valid-triangle-number](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0611-valid-triangle-number) |
