@@ -34,6 +34,7 @@
 | [1325-path-with-maximum-probability](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1325-path-with-maximum-probability) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2480-find-subarrays-with-equal-sum) |
@@ -226,6 +227,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0735-asteroid-collision) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Linked List
 |  |
 | ------- |
@@ -287,6 +289,7 @@
 | [0064-minimum-path-sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0064-minimum-path-sum) |
 | [0870-magic-squares-in-grid](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0870-magic-squares-in-grid) |
 | [0967-minimum-falling-path-sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0967-minimum-falling-path-sum) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Breadth-First Search
 |  |
 | ------- |
