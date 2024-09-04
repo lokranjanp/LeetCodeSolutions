@@ -29,6 +29,7 @@
 | [0735-asteroid-collision](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0735-asteroid-collision) |
 | [0870-magic-squares-in-grid](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0870-magic-squares-in-grid) |
 | [0890-lemonade-change](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0890-lemonade-change) |
+| [0906-walking-robot-simulation](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0906-walking-robot-simulation) |
 | [0948-sort-an-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0967-minimum-falling-path-sum) |
 | [1325-path-with-maximum-probability](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1325-path-with-maximum-probability) |
@@ -99,6 +100,7 @@
 | [0264-ugly-number-ii](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0347-top-k-frequent-elements) |
 | [0870-magic-squares-in-grid](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0870-magic-squares-in-grid) |
+| [0906-walking-robot-simulation](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0906-walking-robot-simulation) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2480-find-subarrays-with-equal-sum) |
@@ -228,6 +230,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0735-asteroid-collision) |
+| [0906-walking-robot-simulation](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0906-walking-robot-simulation) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Linked List
