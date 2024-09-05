@@ -33,6 +33,7 @@
 | [0948-sort-an-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0967-minimum-falling-path-sum) |
 | [1325-path-with-maximum-probability](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1325-path-with-maximum-probability) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2132-convert-1d-array-into-2d-array) |
