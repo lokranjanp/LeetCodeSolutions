@@ -42,6 +42,7 @@
 | [2480-find-subarrays-with-equal-sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2502-sort-the-people](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2502-sort-the-people) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/lokranjanp/LeetCodeSoln/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | [2480-find-subarrays-with-equal-sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2502-sort-the-people](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/lokranjanp/LeetCodeSoln/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
 | ------- |
@@ -244,6 +246,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0024-swap-nodes-in-pairs) |
 | [0146-lru-cache](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0146-lru-cache) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
