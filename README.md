@@ -248,6 +248,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0024-swap-nodes-in-pairs) |
 | [0146-lru-cache](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0146-lru-cache) |
+| [1484-linked-list-in-binary-tree](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1484-linked-list-in-binary-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
@@ -281,6 +282,7 @@
 | [0775-n-ary-tree-preorder-traversal](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1484-linked-list-in-binary-tree](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -294,6 +296,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1484-linked-list-in-binary-tree](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Matrix
 |  |
@@ -311,6 +314,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0199-binary-tree-right-side-view) |
 | [0322-coin-change](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0322-coin-change) |
+| [1484-linked-list-in-binary-tree](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -324,6 +328,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1484-linked-list-in-binary-tree](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Design
 |  |
