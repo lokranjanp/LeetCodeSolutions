@@ -119,6 +119,7 @@
 | [0022-generate-parentheses](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0022-generate-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0205-isomorphic-strings) |
+| [0345-reverse-vowels-of-a-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0345-reverse-vowels-of-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0812-rotate-string) |
 | [1894-merge-strings-alternately](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1894-merge-strings-alternately) |
@@ -198,6 +199,7 @@
 | [0075-sort-colors](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0151-reverse-words-in-a-string) |
 | [0295-find-median-from-data-stream](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0295-find-median-from-data-stream) |
+| [0345-reverse-vowels-of-a-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0345-reverse-vowels-of-a-string) |
 | [0611-valid-triangle-number](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0611-valid-triangle-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1615-range-sum-of-sorted-subarray-sums) |
