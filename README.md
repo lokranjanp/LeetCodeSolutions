@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0015-3sum) |
 | [0040-combination-sum-ii](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0045-jump-game-ii) |
+| [0054-spiral-matrix](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0064-minimum-path-sum) |
@@ -239,6 +240,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0735-asteroid-collision) |
 | [0906-walking-robot-simulation](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0906-walking-robot-simulation) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -304,6 +306,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0064-minimum-path-sum) |
 | [0870-magic-squares-in-grid](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0870-magic-squares-in-grid) |
