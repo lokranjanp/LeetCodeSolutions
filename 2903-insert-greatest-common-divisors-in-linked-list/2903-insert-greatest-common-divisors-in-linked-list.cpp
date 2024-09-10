@@ -9,6 +9,18 @@
  * };
  */
 class Solution {
+private:
+    int gcd(int a, int b)
+    {
+        int minimum = min(a,b);
+
+        for(int i = minimum; i>=1; i--)
+            if(a%i == 0 && b%i == 0)
+                return i;
+
+        return a%b;
+    }
+
 public:
     ListNode* insertGreatestCommonDivisors(ListNode* head) {
         if(!head->next)
@@ -16,7 +28,7 @@ public:
 
         ListNode *node = head;
         while(node->next){
-            int res = __gcd(node->val, node->next->val);
+            int res = gcd(node->val, node->next->val);
             ListNode *temp = new ListNode(res);
             temp->next = node->next;
             node->next = temp;
