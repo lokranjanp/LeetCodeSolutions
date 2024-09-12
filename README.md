@@ -39,6 +39,7 @@
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -93,6 +94,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0948-sort-an-array) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/lokranjanp/LeetCodeSoln/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
@@ -108,6 +110,7 @@
 | [0870-magic-squares-in-grid](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0906-walking-robot-simulation) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2502-sort-the-people](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2502-sort-the-people) |
@@ -125,6 +128,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0345-reverse-vowels-of-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0812-rotate-string) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2032-largest-odd-number-in-string) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -401,6 +405,7 @@
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0476-number-complement) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## String Matching
 |  |
