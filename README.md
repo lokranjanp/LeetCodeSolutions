@@ -36,6 +36,7 @@
 | [0948-sort-an-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0967-minimum-falling-path-sum) |
 | [1325-path-with-maximum-probability](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1325-path-with-maximum-probability) |
+| [1435-xor-queries-of-a-subarray](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1435-xor-queries-of-a-subarray) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -405,6 +406,7 @@
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0476-number-complement) |
+| [1435-xor-queries-of-a-subarray](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## String Matching
@@ -427,6 +429,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0238-product-of-array-except-self) |
+| [1435-xor-queries-of-a-subarray](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1435-xor-queries-of-a-subarray) |
 ## Number Theory
 |  |
 | ------- |
