@@ -46,6 +46,7 @@
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2502-sort-the-people](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2502-sort-the-people) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/lokranjanp/LeetCodeSoln/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Divide and Conquer
@@ -409,6 +410,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## String Matching
 |  |
 | ------- |
@@ -434,4 +436,8 @@
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
