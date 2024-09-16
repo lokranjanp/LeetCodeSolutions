@@ -26,6 +26,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0518-coin-change-ii) |
+| [0539-minimum-time-difference](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0539-minimum-time-difference) |
 | [0611-valid-triangle-number](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -61,6 +62,7 @@
 | [0075-sort-colors](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0075-sort-colors) |
 | [0295-find-median-from-data-stream](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0347-top-k-frequent-elements) |
+| [0539-minimum-time-difference](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0539-minimum-time-difference) |
 | [0611-valid-triangle-number](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0611-valid-triangle-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0948-sort-an-array) |
@@ -128,6 +130,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0345-reverse-vowels-of-a-string) |
+| [0539-minimum-time-difference](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0539-minimum-time-difference) |
 | [0678-valid-parenthesis-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0812-rotate-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -197,6 +200,7 @@
 | [0070-climbing-stairs](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0264-ugly-number-ii) |
+| [0539-minimum-time-difference](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0539-minimum-time-difference) |
 | [0650-2-keys-keyboard](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0650-2-keys-keyboard) |
 | [0870-magic-squares-in-grid](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0870-magic-squares-in-grid) |
 | [2032-largest-odd-number-in-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2032-largest-odd-number-in-string) |
