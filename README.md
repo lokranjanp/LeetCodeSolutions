@@ -97,6 +97,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0347-top-k-frequent-elements) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0948-sort-an-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0948-sort-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -113,6 +114,7 @@
 | [0347-top-k-frequent-elements](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0347-top-k-frequent-elements) |
 | [0870-magic-squares-in-grid](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0870-magic-squares-in-grid) |
 | [0906-walking-robot-simulation](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0906-walking-robot-simulation) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -133,6 +135,7 @@
 | [0539-minimum-time-difference](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0539-minimum-time-difference) |
 | [0678-valid-parenthesis-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0812-rotate-string) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2032-largest-odd-number-in-string) |
