@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0015-3sum) |
 | [0040-combination-sum-ii](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0045-jump-game-ii) |
+| [0051-n-queens](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0059-spiral-matrix-ii) |
@@ -376,6 +377,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0051-n-queens) |
 | [0494-target-sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0494-target-sum) |
 ## Quickselect
 |  |
