@@ -28,6 +28,7 @@
 | [0494-target-sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0518-coin-change-ii) |
 | [0539-minimum-time-difference](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0539-minimum-time-difference) |
+| [0605-can-place-flowers](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -286,6 +287,7 @@
 | [0011-container-with-most-water](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0055-jump-game) |
+| [0605-can-place-flowers](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0624-maximum-distance-in-arrays) |
 | [0678-valid-parenthesis-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0678-valid-parenthesis-string) |
