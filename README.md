@@ -136,6 +136,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0392-is-subsequence) |
 | [0539-minimum-time-difference](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0539-minimum-time-difference) |
 | [0678-valid-parenthesis-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0812-rotate-string) |
@@ -224,6 +225,7 @@
 | [0283-move-zeroes](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0611-valid-triangle-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -415,6 +417,7 @@
 | [0213-house-robber-ii](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0518-coin-change-ii) |
