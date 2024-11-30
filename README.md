@@ -45,6 +45,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1833-find-the-highest-altitude](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1833-find-the-highest-altitude) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -458,6 +459,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0238-product-of-array-except-self) |
 | [1435-xor-queries-of-a-subarray](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1435-xor-queries-of-a-subarray) |
+| [1833-find-the-highest-altitude](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1833-find-the-highest-altitude) |
 ## Number Theory
 |  |
 | ------- |
