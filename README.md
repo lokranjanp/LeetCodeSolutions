@@ -142,6 +142,7 @@
 | [0678-valid-parenthesis-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2032-largest-odd-number-in-string) |
@@ -229,6 +230,7 @@
 | [0392-is-subsequence](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0611-valid-triangle-number) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1894-merge-strings-alternately](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1894-merge-strings-alternately) |
 ## Sliding Window
@@ -442,6 +444,7 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0812-rotate-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Graph
 |  |
 | ------- |
