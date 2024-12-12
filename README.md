@@ -54,6 +54,7 @@
 | [2480-find-subarrays-with-equal-sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2502-sort-the-people](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/lokranjanp/LeetCodeSoln/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Divide and Conquer
@@ -90,6 +91,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0948-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1325-path-with-maximum-probability) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Merge Sort
 |  |
 | ------- |
@@ -281,6 +283,7 @@
 | [0906-walking-robot-simulation](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0906-walking-robot-simulation) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Linked List
 |  |
 | ------- |
