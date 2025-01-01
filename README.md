@@ -151,6 +151,7 @@
 | [0812-rotate-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1894-merge-strings-alternately) |
@@ -474,6 +475,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/lokranjanp/LeetCodeSoln/tree/master/0238-product-of-array-except-self) |
 | [1435-xor-queries-of-a-subarray](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1435-xor-queries-of-a-subarray) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1833-find-the-highest-altitude](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1833-find-the-highest-altitude) |
 ## Number Theory
 |  |
