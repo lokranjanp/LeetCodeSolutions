@@ -54,6 +54,7 @@
 | [2480-find-subarrays-with-equal-sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2502-sort-the-people](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/lokranjanp/LeetCodeSoln/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -160,6 +161,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2502-sort-the-people) |
 | [2580-circular-sentence](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2580-circular-sentence) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/lokranjanp/LeetCodeSoln/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Database
 |  |
@@ -477,6 +479,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1435-xor-queries-of-a-subarray) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1833-find-the-highest-altitude](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1833-find-the-highest-altitude) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Number Theory
 |  |
 | ------- |
