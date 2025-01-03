@@ -51,6 +51,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2358-number-of-ways-to-split-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2358-number-of-ways-to-split-array) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2502-sort-the-people](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -479,6 +480,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1435-xor-queries-of-a-subarray) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1833-find-the-highest-altitude](https://github.com/lokranjanp/LeetCodeSoln/tree/master/1833-find-the-highest-altitude) |
+| [2358-number-of-ways-to-split-array](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/lokranjanp/LeetCodeSoln/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Number Theory
 |  |
